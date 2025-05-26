@@ -34,3 +34,50 @@
 - Скачать архив
 - в папке builds запустить файл "TrafficRider_eschkereeee"
 - Удачи!
+
+## Открытие проекта
+
+  Запустите Unity Hub и выберите загруженную папку.
+
+  Убедитесь, что установлены все нужные пакеты (URP, TextMeshPro).
+
+## Build Settings
+
+File → Build Settings.
+
+Добавьте MainMenu.unity (индекс 0) и игровую сцену.
+
+Убедитесь, что MainMenu стоит первой.
+
+## Использование
+
+В редакторе нажмите ▶ Play, чтобы увидеть Main Menu.
+
+В билде приложение сразу стартует с Main Menu.
+
+Нажмите START для игры, EXIT для выхода.
+
+В игре: дистанция отображается в левом верхнем углу.
+
+При столкновении перезапустите игру на R.
+
+## Детали реализации
+
+- UI
+    - UIHandler: обновляет дистанцию, рекорд, показывает Game Over.
+
+    - MainMenuManager: управление кнопками меню.
+
+    - SettingsManager: связывает Slider громкости и TMP_Dropdown разрешений.
+
+    - ButtonHoverAnim: анимация кнопок.
+
+- Gameplay Scripts
+    - EndlessLevelHandler, TransportHandler, ExplodeHandler, AICarSpawner, AIHandler
+
+
+
+
+
+
+
