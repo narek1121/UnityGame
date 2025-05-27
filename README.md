@@ -30,7 +30,7 @@
 
 ## Installing
 
-- [Перейти по ссылке на Google Drive](https://drive.google.com/drive/folders/1UkPMkOczgJ95-2VYfb8H2phSaDUP9dz6?usp=sharing)
+- [Перейти по ссылке на Google Drive](https://drive.google.com/file/d/19QIK2L5XSDMHPzIa0eAcEW2KI3zmZmP4/view?usp=sharing)
 - Скачать архив
 - в папке builds запустить файл "TrafficRider_eschkereeee"
 - Удачи!
